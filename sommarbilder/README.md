@@ -1,0 +1,1 @@
+ändrade sizen på bilderna i slutet
