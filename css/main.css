@@ -1,0 +1,42 @@
+
+body {
+    background-color: #ffff42
+}
+.title{
+    font-size: 3rem;
+    color: green;
+}
+
+.title:hover{
+    color:blue;
+}
+.text{
+    color: red;
+    font-size: 2rem;
+}
+img{
+    width: 100%;
+}
+/*.image-left{
+    float: left;
+}*/
+input{
+    font-size: 1.5rem;
+    color: blue;
+}
+button{
+    font-size: 1.5rem;
+    color: green;
+    background-color: lawngreen;
+}
+button:hover{
+    opacity: 50%;
+    
+}
+#textarea{
+    font-size: 2.5rem;
+    color: yellow;
+}
+header{
+    background-color: burlywood;
+}
