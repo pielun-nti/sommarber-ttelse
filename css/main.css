@@ -15,11 +15,11 @@ body {
     font-size: 2rem;
 }
 img{
-    width: 100%;
+    width: 50%;
 }
-/*.image-left{
+.image-left{
     float: left;
-}*/
+}
 input{
     font-size: 1.5rem;
     color: blue;
